@@ -1,24 +1,4 @@
-# README
+# DATABASE with RoR
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+App pour obtenir une base de données sur un blog.
+La base de données comporte donc des utilisateurs, des articles, des catégories, des commentaires et des likes
